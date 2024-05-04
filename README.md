@@ -12,8 +12,11 @@ Arama: Kitapların adına göre arama yapabilir ve istedikleri kitapları bulabi
 
 Avantajlar:
 Basit Kullanım: Kullanıcı dostu arayüzü sayesinde, kitapların eklenmesi, güncellenmesi ve silinmesi işlemleri hızlı ve kolay bir şekilde gerçekleştirilebilir.
+
 Veri Güvenliği: Microsoft Access veritabanı kullanılarak, kitap bilgileri güvenli bir şekilde saklanır ve gerektiğinde erişilebilir.
+
 Arama Kolaylığı: Kitapları adlarına göre arayarak, istenilen kitapların kolayca bulunması sağlanır.
+
 Esneklik: Kullanıcılar, istedikleri kitap bilgilerini istedikleri gibi güncelleyebilir ve düzenleyebilirler.
 
 Sistem Gereksinimleri:
