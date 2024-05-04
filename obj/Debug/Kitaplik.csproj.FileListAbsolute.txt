@@ -1,0 +1,10 @@
+C:\Users\harun\source\repos\Kitaplik\bin\Debug\Kitaplik.exe.config
+C:\Users\harun\source\repos\Kitaplik\bin\Debug\Kitaplik.exe
+C:\Users\harun\source\repos\Kitaplik\bin\Debug\Kitaplik.pdb
+C:\Users\harun\source\repos\Kitaplik\obj\Debug\Kitaplik.csproj.AssemblyReference.cache
+C:\Users\harun\source\repos\Kitaplik\obj\Debug\Kitaplik.Form1.resources
+C:\Users\harun\source\repos\Kitaplik\obj\Debug\Kitaplik.Properties.Resources.resources
+C:\Users\harun\source\repos\Kitaplik\obj\Debug\Kitaplik.csproj.GenerateResource.cache
+C:\Users\harun\source\repos\Kitaplik\obj\Debug\Kitaplik.csproj.CoreCompileInputs.cache
+C:\Users\harun\source\repos\Kitaplik\obj\Debug\Kitaplik.exe
+C:\Users\harun\source\repos\Kitaplik\obj\Debug\Kitaplik.pdb
